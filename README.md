@@ -1,9 +1,9 @@
 <br />
 <p align="center">
-  <h3 align="center">Showcase - Track all your bugs✔️</h3>
+  <h3 align="center">Node yarn workspace template✔️</h3>
 
   <p align="center">
-    A simple and user friendly project management application with support for tracking all software bugs accross multiple Orgs and Teams
+    A simple and user friendly template for setting up a node project with yar workspace. This repo contains a express backend and a next js frontend
     <br />
     <br />
     <a href="">View Demo</a>
@@ -16,26 +16,6 @@
   </p>
 </p>
 
-Showcase is a simple and easy to use project management application with support for tracking all software bugs Multiple teams and orgs. Each org can have multiple projects in it. Users can be then given access to the org or the project by assigning them different roles.
-
-Each project can have multiple boards to manages different parts of the project. Making it easy to maintain.
-
-## Features
-
-* [ ] Bug Tracking
-* [ ] Sub tasks
-* [ ] Multiple Organizations
-* [ ] Multiple Teams
-* [ ] Multiple Projects
-* [ ] Role Based Access
-* [ ] Documentation and RCA
-* [ ] Bug info and Feature requests from your user
-* [ ] Hold bug bounties
-* [ ] Make bugs as text or markdown
-* [ ] Assign bugs to users
-* [ ] Comments on bugs
-* [ ] Analytics
-* [ ] Public urls
 
 ## Structure
 
@@ -43,8 +23,6 @@ Each project can have multiple boards to manages different parts of the project.
 | :-------------------- | :-----------------------: |
 | [Akagi](akagi)        |      Backend API          |
 | [Kaguya](kaguya)      |     Next js Client        |
-| [Ayame](ayame)        |      Desktop App          |
-| [Mio](mio)            |    VSCode Extension       |
 
 ### 🏗️ Built With
 
